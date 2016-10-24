@@ -2,7 +2,7 @@ public class Person {
 	
 	String name; 
 
-	public void setName() {D
-		name = "Kriss!";
-	}
+	public void setName() {
+		name = "Kriss og Alex";
+  }
 }
